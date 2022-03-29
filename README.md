@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **KikoMedina/KikoMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> 👋 Hello there, I'm Kiko!</h1>
-- 🔭 I’m currently searching for a job as a Front-end dev
-- 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate
-- 💬 Ask me about **Music and Cinema... coding maybe later 😁**
-- ⚡ 🎦 Fun fact: Former job as a Video Editor
+
+- 🔭 I’m currently searching for a job as a Front-end dev <br>
+- 🌱 I’m currently learning **React**<br>
+- 👯 I’m looking to collaborate<br>
+- 💬 Ask me about **Music and Cinema... coding maybe later 😁**<br>
+- ⚡ 🎦 Fun fact: Former job as a Video Editor<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
