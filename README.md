@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello, I'm Kiko, nice to meet you!</h1>
-- I’m currently learning **React**
-
-- Ask me about **Music and Cinema, coding maybe later**
+<h1 align="center"> 👋 Hello there, I'm Kiko!</h1>
+- 🔭 I’m currently searching for a job as a Front-end dev
+- 🌱 I’m currently learning **React**
+- 👯 I’m looking to collaborate
+- 💬 Ask me about **Music and Cinema... coding maybe later 😁**
+- ⚡ 🎦 Fun fact: Former job as a Video Editor
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
