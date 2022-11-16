@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> 👋 Hello there, I'm Kiko!</h1>
 
-- 🔭 I’m currently searching for a job as a Front-end dev <br>
-- 🌱 I’m currently learning <strong>React</strong><br>
+- 🔭 I’m currently working as a Junior Frontend Developer <br>
+- 🌱 I’m currently learning <strong>Angular</strong><br>
 - 👯 I’m looking to collaborate<br>
 - 💬 Ask me about **Music and Cinema... coding maybe later 😁**<br>
 - ⚡ Fun fact: Former job as a Video Editor 🎦<br>
