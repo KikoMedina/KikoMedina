@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> 👋 Hello there, I'm Kiko!</h1>
+<h1 align="center"> Hey, I'm Kiko.</h1>
 
 - 🔭 I’m currently working as a Junior Frontend Developer <br>
 - 🌱 I’m currently learning <strong>Angular</strong><br>
