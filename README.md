@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Hey, I'm Kiko.</h1>
+<h1 align="center"> Hey, I'm Kiko. Here is some ℹ️ about me.</h1>
+- 📼 Former Video Editor<br>
+- 💻 I’m currently working as a Junior Frontend Developer<br>
+- 👨‍🏫 I’m learning <strong>Angular</strong><br>. 
 
-- 🔭 I’m currently working as a Junior Frontend Developer <br>
-- 🌱 I’m currently learning <strong>Angular</strong><br>
-- 👯 I’m looking to collaborate<br>
-- 💬 Ask me about **Music and Cinema... coding maybe later 😁**<br>
-- ⚡ Fun fact: Former job as a Video Editor 🎦<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
