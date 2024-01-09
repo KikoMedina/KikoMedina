@@ -3,7 +3,7 @@
 <h1 align="center"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hey, I'm Kiko</h1>
 <ul>
 <li>💻 I’m currently working as a Junior Frontend Developer<br></li>
-<li><img height="20" width="20" src="https://cdn.simpleicons.org/angular/red"/> learner | 📼 Former Video Editor | Passionate about cinema and music | Guitar player</li>
+<li><img height="20" width="20" src="https://cdn.simpleicons.org/angular/red"/> learner | Former 🎞️ Editor | Passionate about 📽️ and 🎵 | 🎸 player</li>
   <li>Connect with me <a href="https://linkedin.com/in/franciscomedinakaslin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscomedinakaslin" height="30" width="40" /></a></li>
   </ul>
 
