@@ -3,7 +3,7 @@
 <h1 align="center"> Hey, I'm Kiko</h1>
 <ul>
 <li>💻 I’m currently working as a Junior Frontend Developer<br></li>
-<li><img height="10" width="10" src="https://cdn.simpleicons.org/angular/gray"/> learner | 📼 Former Video Editor | Passionate about cinema and music | Guitar player</li>
+<li><img height="20" width="20" src="https://cdn.simpleicons.org/angular/red"/> learner | 📼 Former Video Editor | Passionate about cinema and music | Guitar player</li>
   </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
