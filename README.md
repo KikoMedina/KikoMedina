@@ -1,12 +1,12 @@
 
 
-<h1 align="center"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hey, I'm Kiko</h1>
+<h2 align="center"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hey, I'm Kiko</h2>
 <ul>
 <li>💻 I’m currently working as a Junior Frontend Developer<br></li>
 <li><img height="20" width="20" src="https://cdn.simpleicons.org/angular/red"/> learner | Former 🎞️ Editor | Passionate about 📽️ and 🎵 | 🎸 player</li>
-  <li><a href="https://linkedin.com/in/franciscomedinakaslin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscomedinakaslin" height="20" width="40" /></a></li>
+  <li><a href="https://linkedin.com/in/franciscomedinakaslin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscomedinakaslin" height="20" width="40" /></a> Contact</li>
   </ul>
-<h4 align="left">Languages and Tools</h4>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </a>
