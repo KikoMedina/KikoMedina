@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hey, I'm Kiko</h1>
 💻 I’m currently working as a Junior Frontend Developer<br>
-📼 Former Video Editor | <img height="32" width="32" src="https://cdn.simpleicons.org/angular"/> learner | Music and Cinema | Guitar player
+📼 Former Video Editor | <img height="32" width="32" src="https://cdn.simpleicons.org/angular/gray"/> learner | Music and Cinema | Guitar player
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/franciscomedinakaslin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscomedinakaslin" height="30" width="40" /></a>
