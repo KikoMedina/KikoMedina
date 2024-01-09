@@ -4,7 +4,7 @@
 <ul>
 <li>💻 I’m currently working as a Junior Frontend Developer<br></li>
 <li><img height="20" width="20" src="https://cdn.simpleicons.org/angular/red"/> learner | Former 🎞️ Editor | Passionate about 📽️ and 🎵 | 🎸 player</li>
-  <li>Connect with me <a href="https://linkedin.com/in/franciscomedinakaslin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscomedinakaslin" height="10" width="20" /></a></li>
+  <li>Connect with me <a href="https://linkedin.com/in/franciscomedinakaslin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscomedinakaslin" height="20" width="40" /></a></li>
   </ul>
 <p align="center">
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
