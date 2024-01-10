@@ -2,7 +2,7 @@
 
 <h1 align="center"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hey, I'm Kiko</h1>
 <ul>
-<li>💻 I’m currently working as a Junior Frontend Developer<br></li>
+<li>💻 Junior Frontend Developer<br></li>
 <li><img height="20" width="20" src="https://cdn.simpleicons.org/angular/red"/> learner | Former 🎞️ Editor | Passionate about 📽️ and 🎵 | 🎸 player</li>
   <li><a href="https://linkedin.com/in/franciscomedinakaslin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscomedinakaslin" height="20" width="20" /></a> Contact</li>
   </ul>
@@ -18,7 +18,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> 
     <!--<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>-->  
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="20" height="20"/> </a> <!--<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>-->   <!--<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>--> </p>
-<br>
+<h3 align="left">GitHub Stats</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kikomedina&count_private=true&show_icons=true&theme=transparent" alt="kikomedina" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikomedina&layout=compact" alt="kikomedina" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikomedina&&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7" alt="kikomedina" /></p>
 
