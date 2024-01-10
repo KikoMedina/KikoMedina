@@ -3,8 +3,8 @@
 <h1 align="center"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hey, I'm Kiko</h1>
 <ul>
 <li>💻 Junior Frontend Developer<br></li>
-<li><img height="20" width="20" src="https://cdn.simpleicons.org/angular/red"/> learner | Former 🎞️ Editor | Passionate about 📽️ and 🎵 | 🎸 player</li>
-  <li><a href="https://linkedin.com/in/franciscomedinakaslin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscomedinakaslin" height="10" width="20" /></a> Contact</li>
+<li><img height="20" style="margin-top:-18px;" width="20" src="https://cdn.simpleicons.org/angular/red"/> learner | Former 🎞️ Editor | Passionate about 📽️ and 🎵 | 🎸 player</li>
+  <li><a href="https://linkedin.com/in/franciscomedinakaslin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscomedinakaslin" height="20" width="40" /></a> Contact</li>
   </ul>
 <h3 align="left">🧰 Languages and Tools</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
